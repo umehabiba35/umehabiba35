@@ -2,11 +2,14 @@
 <a href="https://www.linkedin.com/in/ume-habs-1b324a251/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 
-I am a passionate learner with a profound interest in technology and a dedication to solving complex problems.
+I am a dedicated and passionate cybersecurity enthusiast with a strong foundation in information technology and a keen interest in protecting digital assets. My journey in cybersecurity began with a curiosity about how systems work and a desire to understand and mitigate the threats they face. I am committed to continuous learning and staying updated with the latest trends, technologies, and best practices in the field of cybersecurity.
 
 ## Objective
 
 My journey in IT certification has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My goals are 
+To obtain advanced certifications such as Certified Information Systems Security Professional (CISSP) and Certified Ethical Hacker (CEH).
+To contribute to open-source cybersecurity projects and collaborate with the cybersecurity community.
 
 ## Skills
 
@@ -24,6 +27,10 @@ My journey in IT certification has led me to develop a passion for cybersecurity
  
 </div>
 
+### Let's Defend Badges
+<div>
+ <img src="https://app.letsdefend.io/challenge/pcap-analysis" />
+</div>
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
