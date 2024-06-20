@@ -12,13 +12,27 @@ To obtain advanced certifications such as Certified Information Systems Security
 To contribute to open-source cybersecurity projects and collaborate with the cybersecurity community.
 
 ## Skills
+| Skill                                         | Associated Project         |
+|-----------------------------------------------|----------------------------|
+| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Security Automation with Shuffle SOAR         | SOC Automation Lab|
+| Incident Response Planning and Execution      | SOC Automation Lab|
+| Case Management with TheHive                  | SOC Automation Lab|
+| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-
+<div>
+<img src="https://img.shields.io/badge/-Nmap-4682B4?&style=for-the-badge&logo=Nmap&logoColor=white" />
+<img src="https://img.shields.io/badge/-Jenkins-D24939?&style=for-the-badge&logo=Jenkins&logoColor=white" />
+    
+</div>
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-F37820?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
   
 </div>
 
@@ -33,6 +47,8 @@ To contribute to open-source cybersecurity projects and collaborate with the cyb
 <div>
  <img src="https://app.letsdefend.io/challenge/pcap-analysis" />
 </div>
+
+
 ### SIEM
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -49,10 +65,11 @@ To contribute to open-source cybersecurity projects and collaborate with the cyb
 <img src="https://img.shields.io/badge/-ISO%2027001%3A2013%20compliant%20cyber%20security-4B8BBE?&style=for-the-badge&logo=ISO&logoColor=white" />
 <img src="https://img.shields.io/badge/-Fundamentals%20of%20Linux-FCC624?&style=for-the-badge&logo=Linux&logoColor=black" />
 <img src="https://img.shields.io/badge/-Getting%20Started%20with%20Microsoft%20365-0078D4?&style=for-the-badge&logo=Microsoft%20365&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-Google%20Cloud-4285F4?&style=for-the-badge&logo=Google-Cloud&logoColor=white" />
 <img src="https://img.shields.io/badge/-Cybersecurity%20Foundations-4B8BBE?&style=for-the-badge&logo=security&logoColor=white" />
 
 </div>
 
 ## Projects
-
+- Launch a wordpress website
+- Create Virtual machines Ubuntu and CentOS (RHEL)
